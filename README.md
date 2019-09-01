@@ -25,13 +25,13 @@ YouTuberにとって動画の再生数を増やすというのは重要なこと
 
 ## Installation 
  
-`$ git clone https://github.com/nalgo-intern/team-c.git`
+`$ git clone https://github.com/tsurusekazuki/YouTure.git`
 
 ## Get Start
 
 ```
-$ cd team-c
-$ cd web
+$ cd YouTure
+$ cd cgi-app
 $ python -m http.server --cgi
 ```
 
