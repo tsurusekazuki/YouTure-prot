@@ -44,3 +44,7 @@ $ python -m http.server --cgi
 ## Use Dataset
 
 kaggleが公開しているデータセット: [Trending YouTube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new)
+
+## SlideShare
+
+YouTureの発表資料: [SlideShare: YouTure](https://www.slideshare.net/tsurusekazuki/youture)
