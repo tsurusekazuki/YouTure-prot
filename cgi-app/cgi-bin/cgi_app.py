@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 import sys, io, cgi
@@ -185,7 +185,7 @@ html_body = """
     </div>
     <p>どんな動画になりましたか？</p><br>
 
-        <div class="row">  
+        <div class="row">
 
             <div class="row">
                 <div class="col s1 offset-s1"></div>
