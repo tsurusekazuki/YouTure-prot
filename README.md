@@ -5,6 +5,8 @@
 YouTuberにとって動画の再生数を増やすというのは重要なことである。よってあらかじめ動画の再生数、高評価数がどれくらいになるのか？というのを
 知ることができれば、効率よく再生数、高評価を高く取得できる動画の作成、改善に繋がるためこのアプリを開発した。
 
+[YouTure](https://youturepjt.herokuapp.com/)
+
 ## Demo
 
 ![demo](https://user-images.githubusercontent.com/38784824/64070418-16240500-cc9a-11e9-8915-517120c80889.gif)
